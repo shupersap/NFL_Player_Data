@@ -1,0 +1,33 @@
+Rank,Player,SACK,INT,FR,FF,DEF TD,SFTY,SPC TD,G,FPTS,FPTS/G,ROST,Team,Week,Year
+1,Washington Commanders,4,1,2,2,2,0,0,1,23.0,23.0,1.0%,WAS,14,2020
+2,Los Angeles Rams,6,1,0,0,1,0,0,1,21.0,21.0,1.4%,LAR,14,2020
+3,Dallas Cowboys,2,0,3,2,1,0,0,1,18.0,18.0,98.7%,DAL,14,2020
+4,Arizona Cardinals,8,0,3,4,0,0,0,1,18.0,18.0,0.4%,ARI,14,2020
+5,Chicago Bears,7,0,2,1,0,1,0,1,17.0,17.0,46.1%,CHI,14,2020
+6,Kansas City Chiefs,4,1,0,0,0,1,1,1,14.0,14.0,79.3%,KC,14,2020
+7,Buffalo Bills,1,2,0,1,1,0,0,1,12.0,12.0,51.7%,BUF,14,2020
+8,Seattle Seahawks,3,0,1,1,0,0,0,1,12.0,12.0,32.1%,SEA,14,2020
+9,Indianapolis Colts,0,2,1,1,1,0,0,1,12.0,12.0,6.9%,IND,14,2020
+10,Miami Dolphins,3,3,1,1,0,0,0,1,10.0,10.0,77.9%,MIA,14,2020
+11,Denver Broncos,4,0,0,0,0,0,1,1,10.0,10.0,7.8%,DEN,14,2020
+12,Tampa Bay Buccaneers,6,0,1,2,0,0,0,1,9.0,9.0,6.5%,TB,14,2020
+13,Los Angeles Chargers,2,3,0,0,0,0,0,1,9.0,9.0,9.6%,LAC,14,2020
+14,Philadelphia Eagles,5,1,1,1,0,0,0,1,9.0,9.0,43.3%,PHI,14,2020
+15,Tennessee Titans,0,1,0,0,0,0,0,1,8.0,8.0,1.1%,TEN,14,2020
+16,San Francisco 49ers,2,1,0,0,0,0,0,1,8.0,8.0,99.0%,SF,14,2020
+17,Pittsburgh Steelers,1,1,1,2,0,0,0,1,6.0,6.0,91.3%,PIT,14,2020
+18,New England Patriots,1,1,0,0,0,0,0,1,4.0,4.0,2.9%,NE,14,2020
+19,Green Bay Packers,4,0,0,0,0,0,0,1,4.0,4.0,10.2%,GB,14,2020
+20,Atlanta Falcons,1,1,0,2,0,0,0,1,4.0,4.0,11.4%,ATL,14,2020
+21,New Orleans Saints,0,0,1,1,0,0,0,1,2.0,2.0,64.3%,NO,14,2020
+22,Jacksonville Jaguars,1,0,1,1,0,0,0,1,2.0,2.0,19.9%,JAC,14,2020
+23,Cleveland Browns,4,0,0,1,0,0,0,1,2.0,2.0,97.8%,CLE,14,2020
+24,Cincinnati Bengals,2,0,0,0,0,0,0,1,2.0,2.0,58.3%,CIN,14,2020
+25,Carolina Panthers,1,0,1,1,0,0,0,1,2.0,2.0,1.0%,CAR,14,2020
+26,New York Giants,1,0,0,2,0,0,0,1,1.0,1.0,3.3%,NYG,14,2020
+27,Minnesota Vikings,0,0,0,0,0,0,0,1,0.0,0.0,33.7%,MIN,14,2020
+28,Baltimore Ravens,0,1,0,3,0,1,0,1,0.0,0.0,97.7%,BAL,14,2020
+29,New York Jets,1,1,0,0,0,0,0,1,-1.0,-1.0,94.9%,NYJ,14,2020
+30,Houston Texans,3,0,0,0,0,0,0,1,-1.0,-1.0,36.0%,HOU,14,2020
+31,Detroit Lions,0,0,0,0,0,0,0,1,-1.0,-1.0,40.6%,DET,14,2020
+32,Las Vegas Raiders,0,0,0,0,0,0,0,1,-4.0,-4.0,6.5%,LV,14,2020
